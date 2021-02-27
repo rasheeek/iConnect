@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "820159732992",
+    "project_id": "iconnect-5d772",
+    "storage_bucket": "iconnect-5d772.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820159732992:android:9efac74ba81d6b0e3427e5",
+        "android_client_info": {
+          "package_name": "com.rasheek.iconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820159732992-hrf96cj837r57usoorp64hpkact9jdpc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rasheek.iconnect",
+            "certificate_hash": "a1c1c89855cb6b7644aace66f749e0e30ba2a444"
+          }
+        },
+        {
+          "client_id": "820159732992-faih4tn7ublt5iku2vpnou7oltd74rnf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzBALnlXvDOxhdjfvzELPJ-M65T36LVos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820159732992-faih4tn7ublt5iku2vpnou7oltd74rnf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
